@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "MN41804ucmf_3_0016.png"; bbox 0 0 1686 3135; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 154 1007 623 1080">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 154 1001 662 1080">
+     <span class='ocr_line' id='line_1_1' title="bbox 154 1007 623 1080; baseline -0.008 -13"><span class='ocrx_word' id='word_1_1' title='bbox 154 1044 158 1067; x_wconf 56' lang='grc' dir='ltr'><em>ε</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 184 1007 238 1066; x_wconf 69' lang='lat' dir='ltr'>Che</span> <span class='ocrx_word' id='word_1_3' title='bbox 262 1010 623 1080; x_wconf 59' lang='lat' dir='ltr'>”lnivmiffxgobeicmgo</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 315 1121 489 1179">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 315 1121 489 1179">
+     <span class='ocr_line' id='line_1_2' title="bbox 315 1121 489 1179; baseline 0.011 -2"><span class='ocrx_word' id='word_1_4' title='bbox 315 1121 489 1179; x_wconf 46' lang='lat' dir='ltr'>librari&amp;</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 192 1921 695 1976">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 192 1909 695 1998">
+     <span class='ocr_line' id='line_1_3' title="bbox 192 1921 695 1976; baseline -0.014 0"><span class='ocrx_word' id='word_1_5' title='bbox 192 1934 422 1976; x_wconf 55' lang='lat' dir='ltr'>HENGSTENBERG</span> <span class='ocrx_word' id='word_1_6' title='bbox 439 1931 626 1973; x_wconf 71' lang='lat' dir='ltr'><strong>COLLECTION</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 694 1921 695 1925; x_wconf 29' lang='lat'>¹</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 848 3135">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 848 3135">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 848 3135; baseline 0 0"><span class='ocrx_word' id='word_1_8' title='bbox 0 0 848 3135; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
